@@ -1,0 +1,12 @@
+.heading {
+    background-image: linear-gradient(-45deg, #FFC796 0%, #FF6B95 100%);
+    width: 100%;
+    font-weight: bold;
+}
+body {
+    background-image: linear-gradient(-225deg, #2CD8D5 0%, #C5C1FF 56%, #FFBAC3 100%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+}
